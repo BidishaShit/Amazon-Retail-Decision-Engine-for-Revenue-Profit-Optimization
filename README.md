@@ -298,19 +298,6 @@ The system can identify:
 
 ---
 
-# 🔮 Future Improvements
-
-Potential upgrades:
-
-* Machine Learning forecasting (XGBoost / Prophet / LSTM)
-* Interactive Dashboard (Streamlit / Power BI)
-* Automated pricing optimization
-* Inventory planning integration
-* Customer segmentation
-* Real-time API integration
-
----
-
 # 📜 License
 
 MIT License
