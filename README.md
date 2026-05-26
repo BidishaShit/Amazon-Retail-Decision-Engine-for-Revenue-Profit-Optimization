@@ -298,13 +298,4 @@ The system can identify:
 
 ---
 
-# License
-
-MIT License
-
----
-
-# 👨‍💻 Author
-
-Developed for advanced pricing analytics, forecasting, and retail business intelligence workflows.
 
