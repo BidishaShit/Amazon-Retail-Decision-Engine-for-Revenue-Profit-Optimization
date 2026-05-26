@@ -1,4 +1,4 @@
-# 📊 Pricing & Sales Analytics Engine
+# Pricing & Sales Analytics Engine
 
 An end-to-end **Pricing Intelligence & Demand Forecasting Pipeline** built with Python using:
 
@@ -10,15 +10,15 @@ This project analyzes product sales data, generates pricing insights, forecasts 
 
 ---
 
-# 🚀 Features
+#  Features
 
-## ✅ Data Processing
+## Data Processing
 
 * Loads raw sales dataset
 * Cleans and transforms data
 * Creates engineered business features
 
-## ✅ Profitability Analysis
+## Profitability Analysis
 
 * Calculates:
 
@@ -27,30 +27,30 @@ This project analyzes product sales data, generates pricing insights, forecasts 
   * Total profit
   * Profit margins
 
-## ✅ Price Elasticity Modeling
+## Price Elasticity Modeling
 
 Uses **OLS Regression** to estimate:
 
 * Demand sensitivity to discounts
 * Impact of ratings & reviews on sales
 
-## ✅ Demand Forecasting
+## Demand Forecasting
 
 Uses **ARIMA Time Series Forecasting** to:
 
 * Predict future demand
 * Generate next-period sales estimates
 
-## ✅ Product Segmentation
+## Product Segmentation
 
 Automatically classifies products into:
 
-* ⭐ Star
-* 💰 Cash Cow
-* ❓ Question Mark
-* ❌ Dead Stock
+* Star
+* Cash Cow
+* Question Mark
+* Dead Stock
 
-## ✅ Discount Simulation Engine
+## Discount Simulation Engine
 
 Simulates:
 
@@ -59,7 +59,7 @@ Simulates:
 * Quantity demand changes
   for different discount percentages.
 
-## ✅ Decision Recommendation Engine
+## Decision Recommendation Engine
 
 Provides strategic business recommendations:
 
@@ -67,7 +67,7 @@ Provides strategic business recommendations:
 * Increase marketing
 * Remove underperforming products
 
-## ✅ Automated Excel Report
+## Automated Excel Report
 
 Exports:
 
@@ -85,7 +85,7 @@ with:
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```bash
 project/
@@ -98,7 +98,7 @@ project/
 
 ---
 
-# 🛠️ Installation
+# Installation
 
 ## 1. Clone Repository
 
@@ -116,7 +116,7 @@ pip install pandas numpy statsmodels openpyxl
 
 ---
 
-# 📈 Dataset Requirements
+# Dataset Requirements
 
 Your CSV file must contain the following columns:
 
@@ -134,7 +134,7 @@ Your CSV file must contain the following columns:
 
 ---
 
-# ▶️ Run the Project
+# Run the Project
 
 ```bash
 python pricing_engine.py
@@ -142,7 +142,7 @@ python pricing_engine.py
 
 ---
 
-# 📊 Pipeline Workflow
+# Pipeline Workflow
 
 ## 1. Load Data
 
@@ -189,19 +189,19 @@ Forecasts:
 
 ## 5. Product Segmentation
 
-### ⭐ Star
+### Star
 
 High sales + positive growth
 
-### 💰 Cash Cow
+### Cash Cow
 
 High sales + low growth
 
-### ❓ Question Mark
+### Question Mark
 
 Low sales + positive growth
 
-### ❌ Dead Stock
+### Dead Stock
 
 Low sales + negative growth
 
@@ -243,7 +243,7 @@ Triggered when:
 
 ---
 
-# 📤 Excel Output
+# Excel Output
 
 Generated file:
 
@@ -265,16 +265,16 @@ Includes sheets:
 
 ---
 
-# 🎨 Excel Formatting Features
+# Excel Formatting Features
 
-* ✅ Green = Positive business action
-* ✅ Red = Negative/No action
-* ✅ Yellow = Product removal warning
-* ✅ Auto-adjusted column widths
+* Green = Positive business action
+* Red = Negative/No action
+* Yellow = Product removal warning
+* Auto-adjusted column widths
 
 ---
 
-# 📉 Example Insights
+# Example Insights
 
 The system can identify:
 
@@ -286,7 +286,7 @@ The system can identify:
 
 ---
 
-# 🧠 Technologies Used
+# Technologies Used
 
 | Technology  | Purpose                  |
 | ----------- | ------------------------ |
@@ -298,7 +298,7 @@ The system can identify:
 
 ---
 
-# 📜 License
+# License
 
 MIT License
 
